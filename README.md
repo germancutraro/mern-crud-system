@@ -2,7 +2,7 @@
 
 🌟 Crud using the MERN Stack: MongoDB, Express.js, Reactjs & Node.js
 
-## Instalation
+## Installation
 
 ```bash
 # Install dependencies for server
